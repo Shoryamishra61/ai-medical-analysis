@@ -1,0 +1,6 @@
+huggingface_hub==0.25.2
+langchain_groq
+langchain_huggingface
+langchain_chroma
+langchain_core
+gradio
